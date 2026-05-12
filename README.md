@@ -30,8 +30,4 @@ cmake ..
 
 # Compile the project
 cmake --build . --config Release
-
-## Requirements
-
-- Windows 10/11
-- Minecraft Bedrock Edition (Windows 10/11 version)
+ end
